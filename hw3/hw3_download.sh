@@ -1,0 +1,1 @@
+wget -O 27_model_best_225.pth 'https://www.dropbox.com/s/t6ttjfs8jufococ/27_model_best_225.pth?dl=1'
